@@ -3,7 +3,7 @@
 Hello Everyone
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">
 </h1>
-<p>I'm Ibrahim and Junior Front-end Web Developer.I'm a student of Management Information Systems in <b>Turkey</b> <img src="https://www.flaticon.com/svg/static/icons/svg/330/330204.svg" width="15"> I'm interested in Web development technologies.I'm also trying to improve myself in Front-end Development.
+<p>I'm Ibrahim and Junior Front-end Web Developer.I'm a student of Management Information Systems in <b>Turkey</b>. I'm interested in Web technologies.I'm trying to improve myself in Front-end Development.
 </p>
 <hr>
 <h3>
