@@ -29,9 +29,6 @@ Hello Everyone
 GitHub Stats
 </h3>
 <a href="https://github.com/ibrahimgediktr">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimgediktr&show_icons=true&line_height=27&count_private=true&layout=compact&theme=dark&show_icons=true" width="450">
-</a>
-<a href="https://github.com/ibrahimgediktr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgediktr&layout=compact&theme=dark&show_icons=true" width="450">
 </a>
 
