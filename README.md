@@ -5,6 +5,10 @@ Hello Everyone
 </h1>
 <p>I'm Ibrahim and Junior Front-end Web Developer.I'm a student of Management Information Systems in <b>Turkey</b>. I'm interested in Web technologies.I'm trying to improve myself in Front-end Development.
 </p>
+<p>Ask me about anything</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimgedik/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:altaysimsek16@gmail.com)](mailto:ibrahimgediktc@gmail.com)
 <hr>
 <h3>
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
@@ -30,5 +34,6 @@ GitHub Stats
 <a href="https://github.com/ibrahimgediktr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgediktr&layout=compact&theme=dark&show_icons=true" width="450">
 </a>
+
 
 
