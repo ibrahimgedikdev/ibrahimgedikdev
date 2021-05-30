@@ -3,8 +3,12 @@
 Hello Everyone
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">
 </h1>
-<p>I'm Ibrahim and Junior Front-end Web Developer.I'm a student of Management Information Systems in <b>Turkey</b>. I'm interested in Web technologies.I'm trying to improve myself in Front-end Development.
+  
+<p>
+I'm a passionate self-taught Software Developer and Management Information Systems student based in Istanbul, <b>Turkey</b>. I'm interested in web technologies. I tend to make use of modern web technologies to build websites that look awesome.
+  I'm currently living in Istanbul, Turkey and developing things at <a href="https://www.beranet.com.tr/">Beranet</a>
 </p>
+  
 <p>Ask me about anything</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimgedik/)
