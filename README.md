@@ -15,7 +15,7 @@ I'm a passionate self-taught Frontend Developer and Management Information Syste
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:altaysimsek16@gmail.com)](mailto:ibrahimgediktc@gmail.com)
 <hr>
 <h3>
-<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
+Technologies I use.
 </h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -32,7 +32,6 @@ I'm a passionate self-taught Frontend Developer and Management Information Syste
 <hr>
 
 <h3>
-<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094918.svg" width="30">
 GitHub Stats
 </h3>
 <a href="https://github.com/ibrahimgediktr">
