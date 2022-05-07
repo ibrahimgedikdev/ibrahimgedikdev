@@ -6,7 +6,7 @@ Hello Everyone
   
 <p>
 I'm a passionate self-taught Frontend Developer and Management Information Systems student based in Istanbul, <b>Turkey</b>. I'm interested in web technologies. I tend to make use of modern web technologies to build websites that look awesome.
-  I'm currently living in Istanbul, Turkey and developing things at <a href="https://www.beranet.com.tr/">Beranet</a>
+  I'm currently living in Istanbul, Turkey and developing user interfaces at <a href="https://www.beranet.com.tr/">Beranet</a>
 </p>
   
 <p>Ask me about anything</p>
