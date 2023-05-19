@@ -4,7 +4,7 @@ Hello Everyone
 </h1>
   
 <p>
-I'm passionate and self-taught Front-end Developer. I tend to create visually appealing and user-friendly websites and applications as a Front-end Developer. I'm currently living in Amasya, Turkey and developing user interfaces as a Front-end Developer
+I'm passionate and self-taught Front-end Developer. I tend to create visually appealing and user-friendly websites and applications. I'm currently living in Amasya, Turkey and developing user interfaces as a Front-end Developer
 </p>
 <p>Ask me about anything</p>
 
